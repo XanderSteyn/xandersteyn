@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/XanderSteyn/xandersteyn/fa971c1f23e4b89f029804e8208377b7e9a7fe1f/name.svg" alt="Xander Steyn"/><br>
+  <img src="https://raw.githubusercontent.com/XanderSteyn/xandersteyn/ddc0637e086101ac33c2c2c24a228e5ede26f2b1/IGNORE-icons/header.svg" alt="Xander Steyn"/><br>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/xandersteyn/">
@@ -20,14 +20,14 @@
   </p>
 </h1>
 
-<img src="https://raw.githubusercontent.com/XanderSteyn/xandersteyn/e817263b6499521d5c8ca3c47bfb059fc21f09e1/about-me.svg" alt="About Me"/><br>
+<img src="https://raw.githubusercontent.com/XanderSteyn/xandersteyn/04a72958bf1488f2e569cce8a67088d321aded84/IGNORE-icons/about-me.svg" alt="About Me"/><br>
 With 5+ years of programming experience, I transitioned from ethical hacking and cybersecurity into software engineering in early 2025.<br>
 I discovered that my true passion lies in building practical software solutions rather than just securing systems.<br>
 Today, I focus on crafting tools and applications that solve real-world problems, while continuously sharpening my skills through hands-on projects and ongoing learning.
 
 <h1></h1>
 
-<img src="https://raw.githubusercontent.com/XanderSteyn/xandersteyn/6d367468bfd086483aa7401c51122994fc680142/languages.svg" alt="About Me"/><br>
+<img src="https://raw.githubusercontent.com/XanderSteyn/xandersteyn/b113db8b659381e289a1fc3f046f978768d34d9a/IGNORE-icons/languages.svg" alt="About Me"/><br>
 
 <p>
   <img width="35px" alt="Python" title="Python" src="https://i.imgur.com/9DKuQJq.png"/>
