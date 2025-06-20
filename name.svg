@@ -43,10 +43,10 @@
         }
 
         h2 {
-          font-size: 1.5em;
-          font-weight: 500;
+          font-size: 1.75em;
+          font-weight: 750;
           margin: 0;
-          margin-top: 0.3em;
+          margin-top: 0em;
         }
       </style>
       <div class="text">
