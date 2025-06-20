@@ -1,6 +1,6 @@
 <svg fill="none" viewBox="0 0 800 150" width="800" height="150" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="padding:0; margin:0; height:100%; display:flex; flex-direction: column; justify-content: center; align-items: center;">
+    <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         @keyframes gradientText {
           0% {
@@ -34,24 +34,20 @@
           -webkit-text-fill-color: transparent;
           animation: gradientText 3s ease infinite;
           text-align: center;
-          padding: 0;
-          margin: 0;
-          line-height: 1;
         }
 
         h1 {
           font-size: 4em;
           font-weight: 900;
           margin: 0;
-          line-height: 1;
         }
 
         h2 {
           font-size: 1.75em;
           font-weight: 750;
           margin: 0;
-          padding: 0;
-          line-height: 1.25;
+          margin-top: 0em;
+          margin-bottom: 0em;
         }
       </style>
       <div class="text">
