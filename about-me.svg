@@ -1,6 +1,6 @@
-<svg fill="none" viewBox="0 0 800 180" width="800" height="180" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 120" width="800" height="120" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; line-height: 1; padding: 0; margin: 0;">
       <style>
         @keyframes gradientText {
           0% {
@@ -15,6 +15,8 @@
         }
 
         .text {
+          display: inline-block;
+          text-align: left;
           font-family: 'Inter',
             -apple-system,
             BlinkMacSystemFont,
@@ -33,22 +35,27 @@
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
           animation: gradientText 3s ease infinite;
-          text-align: center;
+          line-height: 1;
+          padding: 0;
+          margin: 0;
         }
 
         h1 {
           font-size: 4em;
           font-weight: 900;
-          margin: 0 0 4px 0; /* smaller bottom margin */
+          margin: 0 0 4px 0;
+          line-height: 1;
+          padding: 0;
         }
 
         .underline {
-          width: 160px;
+          width: 60%;
           height: 4px;
-          margin: 0 auto 0 auto; /* remove bottom margin */
+          margin: 0 auto;
           border-radius: 2px;
           background: linear-gradient(270deg, rgb(0, 60, 134), rgb(1, 109, 241));
           animation: gradientText 3s ease infinite;
+          display: block;
         }
       </style>
       <div class="text">
