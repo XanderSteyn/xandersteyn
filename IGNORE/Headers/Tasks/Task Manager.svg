@@ -51,8 +51,8 @@
         }
       </style>
       <div class="text">
-        <h1>Sticky Notes</h1>
-        <h2>Django app for sticky notes</h2>
+        <h1>Task Manager</h1>
+        <h2>CLI Task Management Application</h2>
       </div>
     </div>
   </foreignObject>
