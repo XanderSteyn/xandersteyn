@@ -49,5 +49,3 @@ Today, I focus on crafting tools and applications that solve real-world problems
   &#8287;&#8287;
   <img width="35px" alt="JavaScript" title="JavaScript" src="IGNORE/Icons/JavaScript.png"/>
 </p>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=xandersteyn.xandersteyn" alt="" width="1" height="1" />
