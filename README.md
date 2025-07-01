@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=xandersteyn.xandersteyn&left_color=royalblue&right_color=royalblue&left_text=Profile%20Visitors"  />
-</div>
-
 <h1 align="center">
   <img src="IGNORE/Headers/Heading.svg" alt="Xander Steyn"/><br>
   
@@ -49,3 +45,7 @@ Today, I focus on crafting tools and applications that solve real-world problems
   &#8287;&#8287;
   <img width="35px" alt="JavaScript" title="JavaScript" src="IGNORE/Icons/JavaScript.png"/>
 </p>
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=xandersteyn.xandersteyn&left_color=black&right_color=black&left_text=Profile%20Visitors" height=1 width=1 />
+</div>
