@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=xandersteyn.xandersteyn&left_color=royalblue&right_color=royalblue&left_text=Profile%20Visitors"  />
+</div>
+
 <h1 align="center">
   <img src="IGNORE/Headers/Heading.svg" alt="Xander Steyn"/><br>
   
