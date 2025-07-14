@@ -23,7 +23,7 @@
 <img src="IGNORE/Headers/About Me.svg" alt="About Me"/><br>
 
 With 5+ years of programming experience, I transitioned from ethical hacking and cybersecurity into software engineering in early 2025.<br>
-I discovered that my true passion lies in building practical software solutions rather than just securing systems.<br>
+I discovered that my true purpose lies in building practical software solutions rather than just securing systems.<br>
 Today, I focus on crafting tools and applications that solve real-world problems, while continuously sharpening my skills through hands-on projects and ongoing learning.
 
 <h1></h1>
