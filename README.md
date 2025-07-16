@@ -22,9 +22,11 @@
 
 <img src="IGNORE/Headers/About Me.svg" alt="About Me"/><br>
 
-With 5+ years of programming experience, I transitioned from ethical hacking and cybersecurity into software engineering in early 2025.<br>
-I discovered that my true purpose lies in building practical software solutions rather than just securing systems.<br>
-Today, I focus on crafting tools and applications that solve real-world problems, while continuously sharpening my skills through hands-on projects and ongoing learning.
+With over 5 years of programming experience, I transitioned from ethical hacking and cybersecurity to software engineering in early 2025. This shift allowed me to focus on delivering practical and reliable software solutions that address real-world problems.
+
+My development approach is built on a strong understanding of system vulnerabilities, which guides me in designing secure, scalable, and maintainable applications. I prioritize simplicity, aiming to create software that performs efficiently and adapts effectively over time.
+
+Outside of coding, I play piano by ear; fast, emotional pieces that help me clear my head. I've even started composing my own music, which feels like a way to put what I'm thinking into sound. I find peace watching the pair of squirrels in my garden, thinking through ideas in quiet spaces, and soon, trying to turn a blank canvas into something worth looking at.
 
 <h1></h1>
 
