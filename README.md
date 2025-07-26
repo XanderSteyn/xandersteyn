@@ -28,6 +28,9 @@ My development approach is built on a strong understanding of system vulnerabili
 
 Outside of coding, I play piano by ear; fast, emotional pieces that help me clear my head. I've even started composing my own music, which feels like a way to put what I'm thinking into sound. I find peace watching the pair of squirrels in my garden, thinking through ideas in quiet spaces, and soon, trying to turn a blank canvas into something worth looking at.
 
+> Open sourcing my personal projects isn't something I typically do, as I prefer to keep my work private.  
+> However, my HyperionDev projects are publicly available to showcase my skills for job opportunities.
+
 <h1></h1>
 
 <img src="IGNORE/Headers/Languages.svg" alt="Languages"/><br>
