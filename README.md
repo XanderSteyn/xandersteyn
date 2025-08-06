@@ -22,11 +22,11 @@
 
 <img src="IGNORE/Headers/About Me.svg" alt="About Me"/><br>
 
-With over 5 years of programming experience, I transitioned from ethical hacking and cybersecurity to software engineering in early 2025. This shift allowed me to focus on delivering practical and reliable software solutions that address real-world problems.
+With over 5 years of programming experience, I transitioned from ethical hacking and cybersecurity to software engineering in early 2025. This shift allowed me to focus on delivering practical, reliable software solutions that solve real-world problems.
 
-My development approach is built on a strong understanding of system vulnerabilities, which guides me in designing secure, scalable, and maintainable applications. I prioritize simplicity, aiming to create software that performs efficiently and adapts effectively over time.
+My development approach is grounded in a deep understanding of system vulnerabilities, guiding me to design secure, scalable, and maintainable applications. I prioritize simplicity, aiming to build software that performs efficiently and adapts effectively over time.
 
-Outside of coding, I play piano by ear; fast, emotional pieces that help me clear my head. I've even started composing my own music, which feels like a way to put what I'm thinking into sound. I find peace in quiet moments outside in my garden, watching the pair of squirrels as I think through ideas; and soon, trying to turn a blank canvas into something worth looking at.
+Outside of coding, I play piano by ear - fast, emotional pieces that help me clear my mind. I've recently started composing my own music, which feels like a way to translate my thoughts into sound. I find peace in quiet moments spent outdoors, using the time to think through ideas. Painting is next on my list, a new way to bring ideas to life beyond code and music.
 
 > Open sourcing my personal projects isn't something I typically do, as I prefer to keep my work private.  
 > However, my HyperionDev projects are publicly available to showcase my skills for job opportunities.
