@@ -55,7 +55,7 @@ Outside of coding, I play piano by ear - fast, emotional pieces that help me cle
 
 <img src="IGNORE/Headers/Achievements and Volunteering.svg" alt="Achievements and Volunteering"/><br>
 
-### <img src="IGNORE/Icons/Clock.png" width="15px" alt="Clock Icon"/>&nbsp; April 2025
+### <img src="IGNORE/Icons/Clock.png" width="16.5px" alt="Clock Icon"/>&nbsp; April 2025
 
 - **Guest Speaker – Northern Technical University**  
   Delivered a remote guest lecture to a first-year cybersecurity college class, explaining Intrusion Detection Systems (IDS) and handling a live Q&A session.
@@ -63,7 +63,7 @@ Outside of coding, I play piano by ear - fast, emotional pieces that help me cle
 - **CS401: Operating Systems Final Exam – 90%**  
   Demonstrated advanced understanding of operating system principles, achieving 90% on the final exam.
 
-### <img src="IGNORE/Icons/Clock.png" width="15px" alt="Clock Icon"/>&nbsp; July 2025
+### <img src="IGNORE/Icons/Clock.png" width="16.5px" alt="Clock Icon"/>&nbsp; July 2025
 
 - **Clash of Code Contest – Ranked 76th Globally**  
   Placed 76th out of 12,619 participants in a global CodinGame Clash of Code contest, ranking in the top 0.6% worldwide.
