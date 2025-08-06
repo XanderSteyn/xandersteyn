@@ -51,6 +51,16 @@ Outside of coding, I play piano by ear - fast, emotional pieces that help me cle
   <img width="35px" alt="JavaScript" title="JavaScript" src="IGNORE/Icons/JavaScript.png"/>
 </p>
 
+<h1></h1>
+
+<img src="IGNORE/Headers/Achievements and Volunteering.svg" alt="Achievements and Volunteering"/><br>
+
+<strong>Clash of Code Contest - Ranked 76th Globally (July 2025)</strong><br>
+Placed 76th out of 12,619 participants in a global CodinGame Clash of Code contest, ranking in the top 0.6% worldwide.
+
+<strong>Guest Speaker - Northern Technical University (April 2025)</strong><br>
+Delivered a remote guest lecture to a first-year cybersecurity college class, explaining Intrusion Detection Systems (IDS) and handling a live Q&A session.
+
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=xandersteyn.xandersteyn&left_color=black&right_color=black&left_text=Profile%20Visitors" height=1 width=1 />
 </div>
