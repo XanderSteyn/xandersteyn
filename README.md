@@ -26,7 +26,7 @@ With over 5 years of programming experience, I transitioned from ethical hacking
 
 My development approach is built on a strong understanding of system vulnerabilities, which guides me in designing secure, scalable, and maintainable applications. I prioritize simplicity, aiming to create software that performs efficiently and adapts effectively over time.
 
-Outside of coding, I play piano by ear; fast, emotional pieces that help me clear my head. I've even started composing my own music, which feels like a way to put what I'm thinking into sound. I find peace watching the pair of squirrels in my garden, thinking through ideas in quiet spaces, and soon, trying to turn a blank canvas into something worth looking at.
+Outside of coding, I play piano by ear; fast, emotional pieces that help me clear my head. I've even started composing my own music, which feels like a way to put what I'm thinking into sound. I find peace in quiet moments outside in my garden, watching the pair of squirrels as I think through ideas; and soon, trying to turn a blank canvas into something worth looking at.
 
 > Open sourcing my personal projects isn't something I typically do, as I prefer to keep my work private.  
 > However, my HyperionDev projects are publicly available to showcase my skills for job opportunities.
