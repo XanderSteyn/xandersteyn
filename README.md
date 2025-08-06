@@ -53,7 +53,7 @@ Outside of coding, I play piano by ear - fast, emotional pieces that help me cle
 
 <h1></h1>
 
-<img src="IGNORE/Headers/Achievements and Volunteering.svg" alt="Achievements and Volunteering"/><br>
+<img src="IGNORE/Headers/Achievements.svg" alt="Achievements"/><br>
 
 ### <img src="IGNORE/Icons/Clock.png" width="16.5px" alt="Clock Icon"/>&nbsp; April 2025
 
@@ -68,6 +68,4 @@ Outside of coding, I play piano by ear - fast, emotional pieces that help me cle
 - **Clash of Code Contest – Ranked 76th Globally**  
   Placed 76th out of 12,619 participants in a global CodinGame Clash of Code contest, ranking in the top 0.6% worldwide.
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=xandersteyn.xandersteyn&left_color=black&right_color=black&left_text=Profile%20Visitors" height=1 width=1 />
-</div>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=xandersteyn.xandersteyn&left_color=black&right_color=black&left_text=Profile%20Visitors" height=0 width=0 />
