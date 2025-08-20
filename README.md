@@ -57,7 +57,7 @@ Outside of coding, I play piano by ear - fast, emotional pieces that help me cle
 
 ### <img src="IGNORE/Icons/Clock.png" width="16.5px" alt="Clock Icon"/>&nbsp; April 2025
 
-- **Guest Speaker – Northern Technical University**  
+- **Guest Speaker ~ Northern Technical University**  
   Delivered a remote guest lecture to a first-year cybersecurity college class, explaining Intrusion Detection Systems (IDS) and handling a live Q&A session.
 
 - **CS401: Operating Systems Final Exam – 90%**  
@@ -65,7 +65,7 @@ Outside of coding, I play piano by ear - fast, emotional pieces that help me cle
 
 ### <img src="IGNORE/Icons/Clock.png" width="16.5px" alt="Clock Icon"/>&nbsp; July 2025
 
-- **Clash of Code Contest – Ranked 76th Globally**  
+- **Clash of Code Contest ~ Ranked 76th Globally**  
   Placed 76th out of 12,619 participants in a global CodinGame Clash of Code contest, ranking in the top 0.6% worldwide.
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=xandersteyn.xandersteyn&left_color=black&right_color=black&left_text=Profile%20Visitors" height=0 width=0 />
