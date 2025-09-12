@@ -10,7 +10,7 @@
       <img width="40px" alt="LeetCode" title="LeetCode" src="IGNORE/Socials/LeetCode.png"/>
     </a>
     &#8287;&#8287;
-    <a href="mailto:xandersteyn.dev@gmail.com">
+    <a href="mailto:info@xandersteyn.co.za">
       <img width="40px" alt="Email" title="Email" src="IGNORE/Socials/Email.png"/>
     </a>
     &#8287;&#8287;
