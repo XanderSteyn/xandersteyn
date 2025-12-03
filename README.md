@@ -68,4 +68,8 @@ Outside of coding, I play piano by ear - fast, emotional pieces that help me cle
 - **Clash of Code Contest ~ Ranked 76th Globally**  
   Placed 76th out of 12,619 participants in a global CodinGame Clash of Code contest, ranking in the top 0.6% worldwide.
 
+### <img src="IGNORE/Icons/Clock.png" width="16.5px" alt="Clock Icon"/>&nbsp; December 2025
+- **Guest Speaker ~ Northern Technical University**  
+  Delivered a remote guest lecture to a second-year cybersecurity college class, explaining TCP & UDP and handling a live Q&A session.
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=xandersteyn.xandersteyn&left_color=black&right_color=black&left_text=Profile%20Visitors" height=0 width=0 />
