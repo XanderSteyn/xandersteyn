@@ -1,0 +1,59 @@
+<svg fill="none" viewBox="0 0 800 130" width="800" height="130" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes gradientText {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
+        }
+
+        .text {
+          font-family: 'Inter',
+            -apple-system,
+            BlinkMacSystemFont,
+            'Segoe UI',
+            'Roboto',
+            'Oxygen',
+            'Ubuntu',
+            'Cantarell',
+            'Fira Sans',
+            'Droid Sans',
+            'Helvetica Neue',
+            sans-serif;
+          background: linear-gradient(270deg, rgb(0, 60, 134), rgb(1, 109, 241));
+          background-size: 200%;
+          background-clip: text;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          animation: gradientText 3s ease infinite;
+          text-align: center;
+        }
+
+        h1 {
+          font-size: 4em;
+          font-weight: 900;
+          margin: 0;
+        }
+
+        h2 {
+          font-size: 1.75em;
+          font-weight: 750;
+          margin: 0;
+          margin-top: 0em;
+          margin-bottom: 0em;
+        }
+      </style>
+      <div class="text">
+        <h1>Xander Steyn</h1>
+        <h2>Software Engineer</h2>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
