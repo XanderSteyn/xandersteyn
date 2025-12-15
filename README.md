@@ -47,7 +47,7 @@ Outside of coding, I play piano by ear ~ fast, emotional pieces that help me cle
   </li>
 
   <li>
-    <strong>Clash of Code Contest ~ Ranked 76th Globally</strong>
+    <strong>Clash of Code ~ CodinGame</strong>
     <ul>
       <li>Competed in a 10-day coding contest with daily rounds</li>
       <li>Ranked 76th globally out of 12,619 participants (top 0.6%)</li>
